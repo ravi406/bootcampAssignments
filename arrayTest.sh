@@ -8,5 +8,3 @@ Fruits[ ((counter++)) ]="Cherry"
 echo ${Fruits[@]}
 
 
-
-
